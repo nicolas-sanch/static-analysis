@@ -1,5 +1,7 @@
 # Analyses statiques
 
+Intro à la problématique : https://jolicode.com/blog/l-analyse-statique-dans-le-monde-php
+
 Nous allons utiliser le projet https://github.com/nicolas-sanch/minimalist-blog-laravel pour mettre en oeuvre différents outils d'analyse statique.
 
 ## 1 - PHP CodeSniffer
